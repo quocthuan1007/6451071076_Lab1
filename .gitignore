@@ -1,0 +1,6 @@
+# Tài liệu của thầy & báo cáo Word không đưa lên GitHub
+*.pdf
+*.docx
+~$*
+.ipynb_checkpoints/
+__pycache__/
